@@ -50,6 +50,15 @@ Union Planner는 모바일 및 웹 중심 서비스로 출발해 점진적으로
 - 관리자
 - 통합검색
 
+## Participants
+
+Union Planner는 다음과 같은 팀원들이 함께 만들고 있습니다.
+
+- [@cho-hm](https://github.com/cho-hm)
+- [@devstrcat](https://github.com/devstrcat)
+- [@JeonNewJin](https://github.com/JeonNewJin)
+- [@kimsomi0126](https://github.com/kimsomi0126)
+
 ## Organization
 
 이 GitHub Organization은 Union Planner의 제품 개발과 운영을 위한 저장소를 관리합니다.  
