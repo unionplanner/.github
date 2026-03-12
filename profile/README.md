@@ -54,10 +54,10 @@ Union Planner는 모바일 및 웹 중심 서비스로 출발해 점진적으로
 
 Union Planner는 다음과 같은 팀원들이 함께 만들고 있습니다.
 
-- [@cho-hm](https://github.com/cho-hm)
-- [@devstrcat](https://github.com/devstrcat)
-- [@JeonNewJin](https://github.com/JeonNewJin)
-- [@kimsomi0126](https://github.com/kimsomi0126)
+- 조현민 (Backend & Infra) · [@cho-hm](https://github.com/cho-hm)
+- 전유진 (Backend & Infra) · [@JeonNewJin](https://github.com/JeonNewJin)
+- 김소미 (Frontend) · [@kimsomi0126](https://github.com/kimsomi0126)
+- 최배근 (Frontend) · [@devstrcat](https://github.com/devstrcat)
 
 ## Organization
 
