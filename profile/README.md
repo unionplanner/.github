@@ -57,7 +57,7 @@ Union Planner는 다음과 같은 팀원들이 함께 만들고 있습니다.
 
 - 조현민 (Backend & Infra) · [@cho-hm](https://github.com/cho-hm)
 - 전유진 (Backend & Infra) · [@JeonNewJin](https://github.com/JeonNewJin)
-- 한상원 (Backend & Infra) · [@Carpediem2870](https://github.com/Carpediem2870)
+- 한상원 (Backend) · [@Carpediem2870](https://github.com/Carpediem2870)
 - 김소미 (Frontend) · [@kimsomi0126](https://github.com/kimsomi0126)
 - 최배근 (Frontend) · [@devstrcat](https://github.com/devstrcat)
 
